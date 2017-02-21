@@ -135,7 +135,7 @@ ui <- dashboardPage(
                          p('This dashboard is intended to assist a hitter in understand the approach of a pitcher in a variety of situations. The dashboard is built with a modified form of the 2016 data set in which I filtered out columns that I was not using.'),
                          p('The first tab contains the count of pitches that a pitcher throws, the location of those pitchers thrown, some stats on PAs ending in that pitch, and then information on velocty, spin rate and strike probability of pitches thrown, all framed in reference to a certain pitch by a certain pitcher. For example, when you select Wade Davis and his cutter, the bottom right chart tells you that Wade Davis throws his cutter with as high a spin rate as anyone else throws their cutter.'),
                          p('The second tab contains information on pitch usage based on the count of the PA, previous pitch type, and previous pitch location, as well as pitch usage over the course of the season.'),
-                         p('Please note that if the data becomes overfiltered down to 0 rows, the graphs will fail to load'),
+                         p('Please note that if the data becomes overfiltered down to 0 rows, the graphs will fail to load.'),
                          p('Thanks, I hope you enjoy my project.'),
                          p('Daniel Massop')))
     )
