@@ -1,2 +1,2 @@
-# Pitching Matchup Dahsboard
+# Pitching Matchup Dashboard
 This project is my submission for the 2017 TruMedia Hackathon. The dashboard is intended to help batters understand how a pitcher will approach any given situation. A more detailed explanation of the tabs' function can be found in the user reference. Please note that if the data becomes over filtered down to zero rows, the graphs will fail to load. I hope you enjoy my project. Thanks, Daniel
